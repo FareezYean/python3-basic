@@ -1,0 +1,18 @@
+{
+  "anggota": [
+    {
+      "nama": "Rafif",
+      "pinjam": [
+        {"judul": "Komik", "tanggal": "2025-08-21", "kembali": false},
+        {"judul": "Novel", "tanggal": "2025-08-15", "kembali": true}
+      ]
+    },
+    {
+      "nama": "Sabilla",
+      "pinjam": [
+        {"judul": "Manga", "tanggal": "2025-08-21", "kembali": false},
+        {"judul": "Manhua", "tanggal": "2025-08-15", "kembali": true}
+      ]
+    }
+  ]
+}
